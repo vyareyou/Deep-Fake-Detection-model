@@ -26,4 +26,3 @@ deepfake-detection/
 ├── Deep_fake_video_detection.ipynb  # Main development and training notebook
 ├── datasets/                        # Local directory for raw train/test video clips
 ├── extracted_frames/                # Directory for processed image frames (cache)
-└── requirements.txt                 # Data science dependencies
