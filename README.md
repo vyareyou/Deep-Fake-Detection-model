@@ -1,6 +1,6 @@
 # Deep-Fake-Detection-model
 The Deep Fake Recognition System is a software-based solution that uses Artificial Intelligence and Deep Learning techniques to analyze images and videos. The main aim of this system is to identify fake content by studying facial features, expressions, texture, lighting, and motion patterns.In this project, a Convolutional Neural Network is used.
-# Deepfake Video Detection
+### Deepfake Video Detection
 
 A computer vision and deep learning project designed to classify videos as **Real** or **Fake**. This project focuses on parsing raw video data, extracting structural image frames using OpenCV, and utilizing a neural network architecture to detect visual artifacts and digital manipulations.
 
